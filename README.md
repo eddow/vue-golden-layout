@@ -348,4 +348,4 @@ Each vue object has a `glObject` property and, vice versa, each golden-layout ob
 
 Vue objects (rows, components, stacks, ...) all have a `$parent` that retrieve their Vue' parent. Also their children might be retrieved with `$children`.
 
-Though, the user might change the order of things and who contain what. To retrieve the golden-layout-wise hierarchy, we can use `glParent` as well as `glChindren` on the vue objects to retrieve vue objects.
+Though, the user might change the order of things and who contain what. To retrieve the golden-layout-wise hierarchy, we can use `glParent` as well as `glChildren` on the vue objects to retrieve vue objects.
