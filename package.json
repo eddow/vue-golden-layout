@@ -53,7 +53,7 @@
 		"vue-storage-decorator": "^1.0.7",
 		"vue-template-compiler": "^2.6.12",
 		"vue-template-es2015-compiler": "^1.9.1",
-		"webpack": "^4.44.2",
+		"webpack": "^5.45.1",
 		"webpack-cli": "^4.1.0",
 		"webpack-dev-server": "^3.11.0",
 		"webpack-dev-server-status-bar": "^1.1.2",
